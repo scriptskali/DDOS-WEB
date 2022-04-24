@@ -9,13 +9,14 @@ BLUE = '\033[34m'
 MAGENTA = '\033[35m'
 CYAN = '\033[36m'
 WHITE = '\033[37m'
-RESET = '\033[39m'
+PURPLE = '\033[39m'
+RESET = '\033[40m'
 os.system("clear")
 print(RED+"▒█▀▀▄ ▒█▀▀▄ ▒█▀▀▀█ ▒█▀▀▀█ ░░ ▒█░░▒█ ▒█▀▀▀ ▒█▀▀█")
 print("▒█░▒█ ▒█░▒█ ▒█░░▒█ ░▀▀▀▄▄ ▀▀ ▒█▒█▒█ ▒█▀▀▀ ▒█▀▀▄")
 print("▒█▄▄▀ ▒█▄▄▀ ▒█▄▄▄█ ▒█▄▄▄█ ░░ ▒█▄▀▄█ ▒█▄▄▄ ▒█▄▄█")
 
-print(YELLOW+"///////////////////ATTACK-WEB//////////////////")
+print(PURPLE+"///////////////////ATTACK-WEB//////////////////")
 print("creador:s.c.r.i.p.t.s.k.a.l.i")
 print("tik tok:s.c.r.i.p.t.s.k.a.l.i")
 print("///////////////////ATTACK-DEMO/////////////////")
