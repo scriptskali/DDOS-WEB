@@ -20,7 +20,7 @@ print("creador:s.c.r.i.p.t.s.k.a.l.i")
 print("tik tok:s.c.r.i.p.t.s.k.a.l.i")
 print("///////////////////ATTACK-DEMO/////////////////")
 
-a = int(input("1.- ATTACK SIMULADOR\n2.-DDOS <\nseleccione una opcion: "))
+a = int(input("1.- ATTACK SIMULADOR\n2.-ATTACK BASE LINK <\nseleccione una opcion: "))
 
 if a == 1:
     print('ponga la pagina web aqui')
