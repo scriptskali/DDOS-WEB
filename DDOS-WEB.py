@@ -25,7 +25,7 @@ a = int(input("1.- ATTACK SIMULADOR\n2.-DDOS <\nseleccione una opcion: "))
 if a == 1:
     print('ponga la pagina web aqui')
 elif a == 2:    print("ponga la pagina web aqui")
-                                                                                                                                                                                >
+                                                                                                                                                                                
 import requests
 import os
 
