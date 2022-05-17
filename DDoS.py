@@ -16,8 +16,8 @@ print("▒█░▒█ ▒█░▒█ ▒█░░▒█ ░▀▀▀▄▄ ▀
 print("▒█▄▄▀ ▒█▄▄▀ ▒█▄▄▄█ ▒█▄▄▄█ ░░ ▒█▄▀▄█ ▒█▄▄▄ ▒█▄▄█")
 
 print(GREEN+"///////////////////ATTACK-WEB//////////////////")
-print("creador:s.c.r.i.p.t.s.k.a.l.i")
-print("tik tok:s.c.r.i.p.t.s.k.a.l.i")
+print("creador:arch0zz")
+print("tik tok:arch0zz")
 print("///////////////////ATTACK-DEMO/////////////////")
 
 a = int(input("1.- ATTACK SIMULADOR\n2.-ATTACK BASE LINK <\nseleccione una opcion: "))
